@@ -1,4 +1,12 @@
+Flask
+Flask-SQLAlchemy
+requests
+joblib
+numpy
+pandas
+scikit-learn
 langchain
 nemo_toolkit[all]
 tensorrt
 nvidia-pyindex
+cython

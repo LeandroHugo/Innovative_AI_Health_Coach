@@ -1,0 +1,4 @@
+langchain
+nemo_toolkit[all]
+tensorrt
+nvidia-pyindex
